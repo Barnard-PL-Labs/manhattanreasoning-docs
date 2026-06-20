@@ -92,6 +92,15 @@ nav:
   - Home: index.md
   - Guides:
       - Quickstart: guides/quickstart.md
+      - Python SDK: guides/sdk.md
+      - CLI: guides/cli.md
+      - Using the REST API: guides/rest.md
+      - Troubleshooting: guides/troubleshooting.md
+  - Examples:
+      - Overview: examples/index.md
+      - SAT solver: examples/sat-solver.md
+      - BERT feed-forward: examples/bert-ffn.md
+      - Hello Wishbone: examples/hello-wishbone.md
   - Concepts:
       - Architecture: concepts/architecture.md
   - API Reference:

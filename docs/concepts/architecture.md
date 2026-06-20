@@ -44,6 +44,12 @@ run transactions or reset the board.
 Releasing a session (`POST /fpga/{id}/session/release`) enqueues a reset job
 that returns the FPGA to `idle` once it completes.
 
+!!! warning "Reset is unreliable in the prototype"
+    The reset job reflashes the base LiteX SoC, which currently fails and can
+    leave the board in `error` instead of `idle`. See
+    [Troubleshooting](../guides/troubleshooting.md#fpga-stuck-in-error) for the
+    recovery procedure.
+
 ## Jobs
 
 All work is asynchronous. An endpoint that changes hardware state returns
