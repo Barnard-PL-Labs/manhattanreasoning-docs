@@ -42,6 +42,10 @@ theme:
     - content.code.copy
     - content.code.annotate
 
+extra:
+  # Make the header logo/title link back to the main marketing site
+  homepage: https://manhattanreasoning.com
+
 extra_css:
   - stylesheets/extra.css
 
