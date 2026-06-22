@@ -2,54 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://docs.manhattanreasoning.com/</loc>
-         <lastmod>2026-06-20</lastmod>
+         <lastmod>2026-06-22</lastmod>
     </url>
     <url>
          <loc>https://docs.manhattanreasoning.com/api/rest/</loc>
-         <lastmod>2026-06-20</lastmod>
+         <lastmod>2026-06-22</lastmod>
     </url>
     <url>
          <loc>https://docs.manhattanreasoning.com/concepts/architecture/</loc>
-         <lastmod>2026-06-20</lastmod>
+         <lastmod>2026-06-22</lastmod>
     </url>
     <url>
          <loc>https://docs.manhattanreasoning.com/examples/</loc>
-         <lastmod>2026-06-20</lastmod>
+         <lastmod>2026-06-22</lastmod>
     </url>
     <url>
          <loc>https://docs.manhattanreasoning.com/examples/bert-ffn/</loc>
-         <lastmod>2026-06-20</lastmod>
+         <lastmod>2026-06-22</lastmod>
     </url>
     <url>
          <loc>https://docs.manhattanreasoning.com/examples/hello-wishbone/</loc>
-         <lastmod>2026-06-20</lastmod>
+         <lastmod>2026-06-22</lastmod>
     </url>
     <url>
          <loc>https://docs.manhattanreasoning.com/examples/sat-solver/</loc>
-         <lastmod>2026-06-20</lastmod>
+         <lastmod>2026-06-22</lastmod>
     </url>
     <url>
          <loc>https://docs.manhattanreasoning.com/guides/cli/</loc>
-         <lastmod>2026-06-20</lastmod>
+         <lastmod>2026-06-22</lastmod>
     </url>
     <url>
          <loc>https://docs.manhattanreasoning.com/guides/quickstart/</loc>
-         <lastmod>2026-06-20</lastmod>
+         <lastmod>2026-06-22</lastmod>
     </url>
     <url>
          <loc>https://docs.manhattanreasoning.com/guides/rest/</loc>
-         <lastmod>2026-06-20</lastmod>
+         <lastmod>2026-06-22</lastmod>
     </url>
     <url>
          <loc>https://docs.manhattanreasoning.com/guides/sdk/</loc>
-         <lastmod>2026-06-20</lastmod>
+         <lastmod>2026-06-22</lastmod>
     </url>
     <url>
          <loc>https://docs.manhattanreasoning.com/guides/troubleshooting/</loc>
-         <lastmod>2026-06-20</lastmod>
+         <lastmod>2026-06-22</lastmod>
     </url>
     <url>
          <loc>https://docs.manhattanreasoning.com/reference/orchestrator/</loc>
-         <lastmod>2026-06-20</lastmod>
+         <lastmod>2026-06-22</lastmod>
     </url>
 </urlset>
